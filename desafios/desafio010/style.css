@@ -5,15 +5,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
-/*
-#c5ebd6
-#83e1ad
-#3ddc84
-#2fa866
-#1a5c37
-#063d1e
-*/
-
 :root {
     --cor0: #c5ebd6;
     --cor1: #83e1ad;
@@ -38,6 +29,7 @@ header {
     margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
     text-shadow: 2px 2px 0px black;
+    width: 100%;
 }
 
 header > h1 {
